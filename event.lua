@@ -12,7 +12,7 @@ local function OnPlayerConnecting(name, setKickReason, deferrals)
      if discord ~= nil then
           if BlackList.Player[discord] then
                print("Player ^3"..GetPlayerName(_src).."^0 is ^1BlackList^0 ! ")
-               deferrals.done((BlackList.Notif.blackListFromServer):format(GetPlayerName(_src))   
+               deferrals.done((BlackList.Notif.blackListFromServer):format(GetPlayerName(_src)))
                CancelEvent()
                return
           else
