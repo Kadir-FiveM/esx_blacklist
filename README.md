@@ -1,4 +1,4 @@
-# BlackList une personne ?
+xxxxxxxxxxxxxxxxxxxxxxx# BlackList une personne ?
 Il vous fera allez dans le fichier `list` et regarder l'exemple mis dans le fichier .
 # Comment prendre le DiscordID ?
 1. Allez dans vos `paramètres utilisateur discord`
@@ -7,7 +7,7 @@ Il vous fera allez dans le fichier `list` et regarder l'exemple mis dans le fich
 4. Faites clique droit sur un utilisateur et faites `Copier l'identifiant`
 # End
 Discord d'entraide
-- Kadir >> https://discord.gg/BnhqGyYFvm
+- Kadir >> https://discord.gg/8HPhZEbZ7X
 - DakoM >> https://discord.gg/RvYkRMebnt
 ## N'hésiter pas à mettre une star sa fais grave plaisir
 ## enjoy
