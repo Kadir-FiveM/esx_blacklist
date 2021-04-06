@@ -1,4 +1,4 @@
-xxxxxxxxxxxxxxxxxxxxxxx# BlackList une personne ?
+# BlackList une personne ?
 Il vous fera allez dans le fichier `list` et regarder l'exemple mis dans le fichier .
 # Comment prendre le DiscordID ?
 1. Allez dans vos `paramètres utilisateur discord`
