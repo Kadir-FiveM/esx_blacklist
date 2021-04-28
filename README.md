@@ -7,7 +7,6 @@ Il vous fera allez dans le fichier `list` et regarder l'exemple mis dans le fich
 4. Faites clique droit sur un utilisateur et faites `Copier l'identifiant`
 # End
 Discord d'entraide
-- Kadir >> https://discord.gg/8HPhZEbZ7X
-- DakoM >> https://discord.gg/RvYkRMebnt
+https://discord.gg/8HPhZEbZ7X
 ## N'hésiter pas à mettre une star sa fais grave plaisir
 ## enjoy
